@@ -1,6 +1,5 @@
 ##**前言：**##
 这些天玩了一些SAS的地图，用的是gmap过程步，在这里放一下demo，有兴趣的可以看看。
-**代码见GitHub**：[SAS_maps](https://github.com/LiuXingMing/SAS_maps)（如果觉得GitHub麻烦的话可以直接跟我要代码）。
 <p>
 <p>
 ##**效果图：**##
