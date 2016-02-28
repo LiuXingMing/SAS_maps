@@ -1,0 +1,14 @@
+运行环境：SAS9.4
+系统环境：64 位 win8 系统
+
+
+
+运行说明：
+（执行文件前注意修改 file_dir 的路径，指向当前文件夹）
+执行 "code.sas" 文件，在 Temp 文件夹里将生成 .htm 文件，打开 "main.htm" 文件即可。
+
+执行 "code_GIF.sas" 文件，在用户文件夹（如：C:\Users\Bones）里将生成一个 .gif 图片，打开即可。
+
+执行 "code_升级版.sas" 文件，在 Temp 文件夹里将生成 .htm 文件，打开 "main.htm" 文件即可。
+
+执行 "code_GIF_升级版.sas" 文件，在用户文件夹（如：C:\Users\Bones）里将生成一个 .gif 图片，打开即可。
